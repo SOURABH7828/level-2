@@ -1,0 +1,31 @@
+
+       .img{
+       }
+       body{
+       background-image:url("pattern-background-desktop.svg")
+       }
+       #box{
+       background-color: white;
+       height: 600px;
+       width: 450px;
+       border-radius: 15px;
+       text-position: center;
+       text-align: center;
+       position:relative; left:400px; top:2px;
+       }
+       .button {
+  background-color: #9BB2EA;
+  border: none;
+  color: white;
+  padding: 10px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+
+    
